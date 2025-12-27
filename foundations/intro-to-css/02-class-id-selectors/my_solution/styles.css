@@ -1,0 +1,21 @@
+p {
+background-color: #ffc0cb86;
+color:#000000;
+}
+
+.big{
+    font-size: 24px;
+}
+
+#bluez{
+    background-color: #ffffff;
+    color: #0000f0;
+    font-size: 36px;
+}
+
+#greenz{
+    background-color: #00c000;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: Verdana, sans-serif, "Dejavu Sans";
+}
